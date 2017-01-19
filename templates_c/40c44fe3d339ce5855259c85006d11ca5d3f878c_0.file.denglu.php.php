@@ -1,3 +1,27 @@
+<?php
+/* Smarty version 3.1.31, created on 2017-01-19 10:31:23
+  from "/Library/WebServer/Documents/rzpx/templates/denglu.php" */
+
+/* @var Smarty_Internal_Template $_smarty_tpl */
+if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
+  'version' => '3.1.31',
+  'unifunc' => 'content_5880957b99a181_68520033',
+  'has_nocache_code' => false,
+  'file_dependency' => 
+  array (
+    '40c44fe3d339ce5855259c85006d11ca5d3f878c' => 
+    array (
+      0 => '/Library/WebServer/Documents/rzpx/templates/denglu.php',
+      1 => 1484821725,
+      2 => 'file',
+    ),
+  ),
+  'includes' => 
+  array (
+  ),
+),false)) {
+function content_5880957b99a181_68520033 (Smarty_Internal_Template $_smarty_tpl) {
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -31,4 +55,5 @@
         </div>
     </div>
 </body>
-</html>
+</html><?php }
+}

@@ -17,15 +17,17 @@
         <div class="row">
             <div class="col-lg-10 col-md-10 col-xs-10">
                 <ul class="nav nav-pills" role="tablist">
-                    <li><a>用户列表</a></li>
-                    <li class="active"><a>培训内容</a></li>
-                    <li><a>培训记录</a></li>
+                    <{list}>
+<!--                    <li><a>用户列表</a></li>-->
+<!--                    <li class="active"><a>培训内容</a></li>-->
+<!--                    <li><a>培训记录</a></li>-->
                 </ul>
             </div>
             <div class="col-lg-2 col-md-2 col-md-2">
                 <div style="line-height: 40px">
                     <span>用户名：</span>
-                    <span><{username}></span>
+                    <span><{user}></span>
+                    <span><a href="index.php?controller=login&action=logout">退出</a></span>
                 </div>
             </div>
         </div>

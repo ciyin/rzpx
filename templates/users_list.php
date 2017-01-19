@@ -6,7 +6,7 @@
             <span class="glyphicon glyphicon-plus"></span>
         </button>
         <div style="float: right">
-            <input type="text" name="search"><input type="button" value="搜索" style="margin-left: 5px">
+            <input type="text" name="search_user" placeholder="请输入姓名搜索"><input type="button" value="搜索" style="margin-left: 5px">
         </div>
     </div>
     <!--用户列表-->
@@ -19,6 +19,7 @@
                 <td>邮箱</td>
                 <td>授权码</td>
                 <td>角色</td>
+                <td>城市</td>
                 <td>创建人</td>
                 <td>创建日期</td>
             </tr>
@@ -30,6 +31,7 @@
                 <td>123333@qq.com</td>
                 <td>123</td>
                 <td>ta</td>
+                <td>上海</td>
                 <td>admin</td>
                 <td>2017/1/17 12:00</td>
             </tr>
