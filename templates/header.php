@@ -2,14 +2,13 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>培训内容</title>
+    <title>学习督导</title>
     <!-- 新 Bootstrap 核心 CSS 文件 -->
     <link rel="stylesheet" href="http://cdn.bootcss.com/bootstrap/3.3.0/css/bootstrap.min.css">
     <!-- jQuery文件。务必在bootstrap.min.js 之前引入 -->
     <script src="http://cdn.bootcss.com/jquery/1.11.1/jquery.min.js"></script>
     <!-- 最新的 Bootstrap 核心 JavaScript 文件 -->
     <script src="http://cdn.bootcss.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
-    <link rel="stylesheet" href="rzpx.css">
 </head>
 <body>
 <!--header-->
@@ -34,36 +33,3 @@
 </div>
 <!--container-->
 <div class="container">
-    <!--培训内容-->
-    <div style="margin-top: 5px">
-        <!--幕布-->
-        <div class="jumbotron">
-            <h1><{username}>,你好！</h1>
-            <h2>欢迎加入沃邦！</h2>
-            <p>以下培训内容请在三天内看完，授权码过期后将无法继续观看。</p>
-            <p>观看过程中若有任何问题，请随时联系我：）</p>
-            <p>这是我的联系方式：liudanxia@onebest.cn</p>
-        </div>
-        <!--培训模块-->
-        <div>
-            <table class="table">
-                <tr>
-                    <td>序号</td>
-                    <td>角色</td>
-                    <td>培训模块</td>
-                    <td>详细内容</td>
-                </tr>
-                <tr>
-                    <td>1</td>
-                    <td>学习督导</td>
-                    <td>留学酷／crm／1course</td>
-                    <td><a>查看</a></td>
-                </tr>
-            </table>
-        </div>
-    </div>
-</div><!--container end-->
-<!--footer-->
-<div></div>
-</body>
-</html>

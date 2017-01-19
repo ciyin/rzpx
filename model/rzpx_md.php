@@ -2,7 +2,6 @@
 /**
  * Created by PhpStorm.
  * User: liuciyin
- * Date: 2017/1/17
- * Time: 15:33
+ * Date: 2017/1/18
+ * Time: 15:28
  */
-echo 'hello';

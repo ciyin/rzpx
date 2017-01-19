@@ -84,66 +84,66 @@
                             <form role="form">
                                 <div class="form-group">
                                     <label for="user">姓名</label>
-                                    <input type="text" class="form-control" id="user" placeholder="请输入中文姓名">
+                                    <input type="text" class="form-control" id="user" placeholder="请输入中文姓名" name="user">
                                 </div>
                                 <div class="form-group">
                                     <label for="username">邮箱</label>
-                                    <input type="text" class="form-control" id="username" placeholder="该邮箱用于登录">
+                                    <input type="text" class="form-control" id="username" placeholder="该邮箱用于登录" name="email">
                                 </div>
                                 <div class="checkbox">
                                     <span>城市：</span>
                                     <label class="radio-inline">
-                                        <input type="radio" name="inlineRadioOptions" id="inlineRadio1" value="shanghai"> 上海
+                                        <input type="radio" name="city" id="shanghai" value="shanghai"> 上海
                                     </label>
                                     <label class="radio-inline">
-                                        <input type="radio" name="inlineRadioOptions" id="inlineRadio2" value="guangzhou"> 广州
+                                        <input type="radio" name="city" id="guangzhou" value="guangzhou"> 广州
                                     </label>
                                     <label class="radio-inline">
-                                        <input type="radio" name="inlineRadioOptions" id="inlineRadio3" value="dalian"> 大连
+                                        <input type="radio" name="city" id="dalian" value="dalian"> 大连
                                     </label>
                                     <label class="radio-inline">
-                                        <input type="radio" name="inlineRadioOptions" id="inlineRadio1" value="changchun"> 长春
+                                        <input type="radio" name="city" id="changchun" value="changchun"> 长春
                                     </label>
                                     <label class="radio-inline">
-                                        <input type="radio" name="inlineRadioOptions" id="inlineRadio2" value="shenyang"> 沈阳
+                                        <input type="radio" name="city" id="shenyang" value="shenyang"> 沈阳
                                     </label>
                                     <label class="radio-inline">
-                                        <input type="radio" name="inlineRadioOptions" id="inlineRadio3" value="beijing"> 北京
+                                        <input type="radio" name="city" id="beijing" value="beijing"> 北京
                                     </label>
                                     <label class="radio-inline">
-                                        <input type="radio" name="inlineRadioOptions" id="inlineRadio3" value="chengdu"> 成都
+                                        <input type="radio" name="city" id="chengdu" value="chengdu"> 成都
                                     </label>
                                 </div>
                                 <div class="checkbox">
                                     <span>岗位：</span>
                                     <label class="checkbox-inline">
-                                        <input type="checkbox" id="inlineCheckbox1" value="1"> 督导
+                                        <input type="checkbox" name="role[]" value="1"> 督导
                                     </label>
                                     <label class="checkbox-inline">
-                                        <input type="checkbox" id="inlineCheckbox2" value="2"> cr
+                                        <input type="checkbox" name="role[]" value="2"> cr
                                     </label>
                                     <label class="checkbox-inline">
-                                        <input type="checkbox" id="inlineCheckbox3" value="3"> 前台
+                                        <input type="checkbox" name="role[]" value="3"> 前台
                                     </label>
                                     <label class="checkbox-inline">
-                                        <input type="checkbox" id="inlineCheckbox1" value="4"> 顾问
+                                        <input type="checkbox" name="role[]" value="4"> 顾问
                                     </label>
                                     <label class="checkbox-inline">
-                                        <input type="checkbox" id="inlineCheckbox2" value="5"> 教务
+                                        <input type="checkbox" name="role[]" value="5"> 教务
                                     </label>
                                     <label class="checkbox-inline">
-                                        <input type="checkbox" id="inlineCheckbox3" value="6"> 财务
+                                        <input type="checkbox" name="role[]" value="6"> 财务
                                     </label>
                                     <label class="checkbox-inline">
-                                        <input type="checkbox" id="inlineCheckbox1" value="7"> 副校长
+                                        <input type="checkbox" name="role[]" value="7"> 副校长
                                     </label>
                                     <label class="checkbox-inline">
-                                        <input type="checkbox" id="inlineCheckbox2" value="8"> 校长
+                                        <input type="checkbox" name="role[]" value="8"> 校长
                                     </label>
                                 </div>
                                 <div style="margin-bottom: 5px">
                                     <button type="button" class="btn btn-default">生成授权码</button>
-                                    <span>shouquanma</span>
+                                    <input name="password" value=function()>
                                 </div>
                                 <div style="height: 30px">
                                     <button type="submit" class="btn btn-primary" style="float: right;margin-left: 5px">提交</button>
