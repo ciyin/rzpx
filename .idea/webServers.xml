@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1a830e29-baed-4c56-b2fe-5624246bf997" name="apache" url="http://localhost/rzpx">
+        <fileTransfer port="0" mountedRoot="C:\phpStudy\WWW\rzpx" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>

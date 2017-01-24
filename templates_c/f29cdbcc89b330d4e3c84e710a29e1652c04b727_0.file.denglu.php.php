@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.31, created on 2017-01-19 10:31:23
-  from "/Library/WebServer/Documents/rzpx/templates/denglu.php" */
+/* Smarty version 3.1.31, created on 2017-01-23 06:27:45
+  from "C:\phpStudy\WWW\rzpx\templates\denglu.php" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.31',
-  'unifunc' => 'content_5880957b99a181_68520033',
+  'unifunc' => 'content_5885a2610c8a32_84578668',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
-    '40c44fe3d339ce5855259c85006d11ca5d3f878c' => 
+    'f29cdbcc89b330d4e3c84e710a29e1652c04b727' => 
     array (
-      0 => '/Library/WebServer/Documents/rzpx/templates/denglu.php',
-      1 => 1484821725,
+      0 => 'C:\\phpStudy\\WWW\\rzpx\\templates\\denglu.php',
+      1 => 1485145258,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5880957b99a181_68520033 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5885a2610c8a32_84578668 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -45,9 +45,9 @@ function content_5880957b99a181_68520033 (Smarty_Internal_Template $_smarty_tpl)
             <h2>沃邦系统操作培训</h2>
         </div>
         <div id="login">
-            <form id="login_form" action="index.php?controller=login&action=logincheck" method="get">
+            <form id="login_form" action="index.php" method="post">
                 <table>
-                    <tr><td><input type="text" title="" placeholder="请输入邮箱" name="username"></td></tr>
+                    <tr><td><input type="text" title="" placeholder="请输入姓名" name="username"></td></tr>
                     <tr><td><input type="password" title="" placeholder="请输入授权码" name="password"></td></tr>
                     <tr><td id="btn"><button type="submit" id="login_btn">登录</button></td></tr>
                 </table>

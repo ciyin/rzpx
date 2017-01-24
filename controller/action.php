@@ -5,12 +5,11 @@
  * Date: 2017/1/18
  * Time: 15:29
  */
-
+require_once 'model/rzpx_md.php';
 class Action{
     public $model;
     public $smarty;
     function __construct(){
-        require_once 'model/rzpx_md.php';
         $this->model=new Model();
         require_once 'libs/Smarty.class.php';
         $this->smarty= new Smarty();

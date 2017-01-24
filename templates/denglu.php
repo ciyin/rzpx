@@ -21,9 +21,9 @@
             <h2>沃邦系统操作培训</h2>
         </div>
         <div id="login">
-            <form id="login_form" action="index.php?controller=login&action=logincheck" method="get">
+            <form id="login_form" action="index.php" method="post">
                 <table>
-                    <tr><td><input type="text" title="" placeholder="请输入邮箱" name="username"></td></tr>
+                    <tr><td><input type="text" title="" placeholder="请输入姓名" name="username"></td></tr>
                     <tr><td><input type="password" title="" placeholder="请输入授权码" name="password"></td></tr>
                     <tr><td id="btn"><button type="submit" id="login_btn">登录</button></td></tr>
                 </table>
