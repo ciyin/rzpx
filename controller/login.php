@@ -29,12 +29,14 @@ TABS;
                 $result=$this->model->user_list();
                 $this->smarty->assign('lists',$result);
                 $this->smarty->assign('tabs',$tabs);
+                $this->smarty->assign('title','用户列表');
                 $this->smarty->display('header.php');
                 $this->smarty->display("users_list_1.php");
                 $this->smarty->display("users_list_2.php");
                 $this->smarty->display("users_list_3.php");
                 $this->smarty->display("footer.php");
             }else{
+                $this->smarty->assign('title','培训内容');
                 $tabs='<li class="active"><a href="index.php?controller=showPage&action=showProjects" target="_self">培训内容</a></li>';
                 $this->smarty->assign('tabs',$tabs);
                 $result=$this->model->show_project($_SESSION['roles_id']);

@@ -21,7 +21,6 @@ class Users extends Action{
         $this->smarty->display('users_list_2.php');
     }
     public function search(){
-        echo $_POST['username'];
         $result=$this->model->search_user($_POST['username']);
         $row=$this->model->rows;
         if ($row){

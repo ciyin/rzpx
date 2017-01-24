@@ -14,7 +14,7 @@
                 </tr>
                 <tr style="height: 30px">
                     <td width="20%">1</td>
-                    <td width="60%"><a>抽词</a></td>
+                    <td width="60%"><a href="baidu.com" onclick="save(this.innerText)">抽词</a></td>
                     <td width="20%">5:01</td>
                 </tr>
             </table>
@@ -34,7 +34,7 @@
                 </tr>
                 <tr style="height: 30px">
                     <td width="20%">1</td>
-                    <td width="60%"><a>抽词</a></td>
+                    <td width="60%"><a href="baidu.com" onclick="save(this.innerText)">抽词</a></td>
                     <td width="20%">5:01</td>
                 </tr>
             </table>
@@ -54,7 +54,7 @@
                 </tr>
                 <tr style="height: 30px">
                     <td width="20%">1</td>
-                    <td width="60%"><a>抽词</a></td>
+                    <td width="60%"><a href="baidu.com" onclick="save(this.innerText)">抽词</a></td>
                     <td width="20%">5:01</td>
                 </tr>
             </table>

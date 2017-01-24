@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.31, created on 2017-01-24 08:24:47
-  from "C:\phpStudy\WWW\rzpx\templates\projects_1.php" */
+/* Smarty version 3.1.31, created on 2017-01-24 05:27:18
+  from "C:\phpStudy\WWW\rzpx\templates\projects_2.php" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.31',
-  'unifunc' => 'content_58870f4fcdb2b2_79922331',
+  'unifunc' => 'content_5886e5b6b2a003_33900444',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
-    '888d07675be3584fcbac441563be66ac6e9d2f37' => 
+    '9902e9820ef102a24e851ab0351d15c2003b5749' => 
     array (
-      0 => 'C:\\phpStudy\\WWW\\rzpx\\templates\\projects_1.php',
-      1 => 1485246156,
+      0 => 'C:\\phpStudy\\WWW\\rzpx\\templates\\projects_2.php',
+      1 => 1485228405,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_58870f4fcdb2b2_79922331 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5886e5b6b2a003_33900444 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <!--培训内容-->
 <div style="margin-top: 5px">
@@ -38,7 +38,7 @@ function content_58870f4fcdb2b2_79922331 (Smarty_Internal_Template $_smarty_tpl)
                 </tr>
                 <tr style="height: 30px">
                     <td width="20%">1</td>
-                    <td width="60%"><a href="baidu.com" onclick="save(this.innerText)">抽词</a></td>
+                    <td width="60%"><a>抽词</a></td>
                     <td width="20%">5:01</td>
                 </tr>
             </table>

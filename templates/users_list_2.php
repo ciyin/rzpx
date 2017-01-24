@@ -1,4 +1,3 @@
-<tbody id="user_list">
 <{foreach $lists as $list}>
 <tr>
     <td><{$list['id']}></td>
@@ -11,4 +10,3 @@
     <td><{$list['created_at']}></td>
 </tr>
 <{/foreach}>
-</tbody>

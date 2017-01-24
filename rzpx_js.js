@@ -34,3 +34,17 @@ function select_user() {
     var action='search';
     sendData(formId,url,controller,action,replaceId,method);
 }
+function log() {
+    var formId=document.getElementById('search_log');
+    var url="index.php";
+    var replaceId='log_list';
+    var method='post';
+    var controller='logs';
+    var action='logSearch';
+    sendData(formId,url,controller,action,replaceId,method);
+}
+function save(text) {
+    var xhr=new XMLHttpRequest();
+    xhr.open('get','index.php?controller=logs&action=logAdd&text='+text,true);
+    xhr.send();
+}

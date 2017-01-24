@@ -52,18 +52,25 @@ class Model{
         $result=mysqli_fetch_assoc($res);
         return $result;
     }
-//    查询所有的培训记录
+//    显示所有的培训内容
+    public function show_projects(){
+        $sql = "SELECT a.id,a.role,b.project FROM roles AS a JOIN projects AS b ON a.id=b.roles_id";
+        $res = mysqli_query($this->connect, $sql);
+        $result = mysqli_fetch_all($res,MYSQLI_ASSOC);
+        return $result;
+    }
+//    查询所有的培训记录s
      public function logs(){
-        $sql="select a.name,a.roles,a.city,b.video,b.watching_time from users AS a JOIN logs AS b ON a.id=b.users_id";
+        $sql="select a.name,a.roles_id,a.city,b.id,b.video,from_unixtime(b.watching_time) as watching_time,c.role from users AS a JOIN logs AS b ON a.id=b.users_id JOIN roles AS c ON c.id=a.roles_id ORDER BY b.watching_time DESC ";
         $res=mysqli_query($this->connect,$sql);
-        $result=mysqli_fetch_all($res);
+        $result=mysqli_fetch_all($res,MYSQLI_ASSOC);
         return $result;
      }
 //    根据用户名称查询其培训记录
      public function select_log($name){
-         $sql="select a.name,a.roles,a.city,b.video,b.watching_time from users AS a JOIN logs AS b ON a.id=b.users_id WHERE a.name='$name'";
+         $sql="select a.name,a.roles,a.city,b.video,from_unixtime(b.watching_time) as watching_time from users AS a JOIN logs AS b ON a.id=b.users_id WHERE a.name='$name'";
          $res=mysqli_query($this->connect,$sql);
-         $result=mysqli_fetch_assoc($res);
+         $result=mysqli_fetch_all($res,MYSQLI_ASSOC);
          return $result;
      }
 //    判断用户名和密码是否正确
