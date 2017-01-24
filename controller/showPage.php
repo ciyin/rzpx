@@ -44,7 +44,7 @@ TABS;
             $this->smarty->display('training_projects_3.php');
             $this->smarty->display('footer.php');
         }else{
-            $this->smarty->assign('title','用户列表');
+            $this->smarty->assign('title','培训内容');
             $tabs='<li class="active"><a href="index.php?controller=showPage&action=showProjects" target="_self">培训内容</a></li>';
             $this->smarty->assign('tabs',$tabs);
             $result=$this->model->show_project($_SESSION['roles_id']);
@@ -59,7 +59,7 @@ TABS;
     }
 //    详细培训内容
     public function showProjectDetails(){
-        $this->smarty->assign('title','用户列表');
+        $this->smarty->assign('title','培训内容');
         $this->smarty->assign('user',$_SESSION['user']);
         $this->smarty->assign('username',$_SESSION['user']);
         $tabs='<li class="active"><a href="index.php?controller=showPage&action=showProjects" target="_self" onclick="log()">培训内容</a></li>';

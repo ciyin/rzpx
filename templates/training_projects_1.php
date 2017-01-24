@@ -1,7 +1,7 @@
 <!--培训内容-->
 <div style="margin-top: 5px">
     <!--幕布-->
-    <div class="jumbotron">
+    <div class="jumbotron" style="margin-bottom: 15px">
         <h1><{$username}>,你好！</h1>
         <h2>欢迎加入沃邦！</h2>
         <p>以下我们平时工作过程中会使用到的系统的操作培训视频，请及时看完。</p>
@@ -11,7 +11,7 @@
     <!--培训模块-->
     <div>
         <table class="table">
-            <tr>
+            <tr bgcolor="#dcdcdc">
                 <td>序号</td>
                 <td>角色</td>
                 <td>培训模块</td>

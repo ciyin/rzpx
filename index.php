@@ -5,7 +5,7 @@
  * Date: 2017/1/18
  * Time: 15:08
  */
-//error_reporting(0);
+error_reporting(0);
 session_start();
 require_once 'controller/action.php';
 $a=new Action();

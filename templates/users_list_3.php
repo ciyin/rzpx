@@ -21,7 +21,7 @@
                     </div>
                     <div class="form-group">
                         <label for="pwd">授权码</label>
-                        <input type="text" class="form-control" id="pwd" placeholder="请输入授权码用于登录" name="password">
+                        <input type="text" class="form-control" id="pwd" placeholder="请输入4位数字授权码" name="password">
                     </div>
                     <div class="checkbox">
                         <span>城市：</span>
@@ -75,12 +75,11 @@
                         </label>
                     </div>
                     <div style="height: 30px">
-                        <button type="button" class="btn btn-primary" style="float: right;margin-left: 5px" onclick="add()">提交</button>
+                        <button type="button" class="btn btn-primary" data-dismiss="modal" style="float: right;margin-left: 5px" onclick="add()">提交</button>
                         <button type="button" class="btn btn-default" data-dismiss="modal" style="float: right">取消</button>
                     </div>
                 </form>
             </div>
         </div>
     </div>
-</div>
 </div>

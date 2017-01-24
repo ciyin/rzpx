@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.31, created on 2017-01-23 10:39:17
+/* Smarty version 3.1.31, created on 2017-01-24 09:30:59
   from "C:\phpStudy\WWW\rzpx\templates\users_list_3.php" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.31',
-  'unifunc' => 'content_5885dd5553ee34_98601243',
+  'unifunc' => 'content_58871ed338e476_88428084',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '997eec2f8cf632b980d4a5667a8545d84e33d8f5' => 
     array (
       0 => 'C:\\phpStudy\\WWW\\rzpx\\templates\\users_list_3.php',
-      1 => 1485167947,
+      1 => 1485250249,
       2 => 'file',
     ),
   ),
@@ -20,8 +20,9 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5885dd5553ee34_98601243 (Smarty_Internal_Template $_smarty_tpl) {
+function content_58871ed338e476_88428084 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
+</tbody>
 </table>
 </div>
 <!--新增用户表单-->
@@ -44,7 +45,7 @@ function content_5885dd5553ee34_98601243 (Smarty_Internal_Template $_smarty_tpl)
                     </div>
                     <div class="form-group">
                         <label for="pwd">授权码</label>
-                        <input type="text" class="form-control" id="pwd" placeholder="请输入授权码用于登录" name="password">
+                        <input type="text" class="form-control" id="pwd" placeholder="请输入4位数字授权码" name="password">
                     </div>
                     <div class="checkbox">
                         <span>城市：</span>
@@ -98,13 +99,12 @@ function content_5885dd5553ee34_98601243 (Smarty_Internal_Template $_smarty_tpl)
                         </label>
                     </div>
                     <div style="height: 30px">
-                        <button type="button" class="btn btn-primary" style="float: right;margin-left: 5px" onclick="add()">提交</button>
+                        <button type="button" class="btn btn-primary" data-dismiss="modal" style="float: right;margin-left: 5px" onclick="add()">提交</button>
                         <button type="button" class="btn btn-default" data-dismiss="modal" style="float: right">取消</button>
                     </div>
                 </form>
             </div>
         </div>
     </div>
-</div>
 </div><?php }
 }

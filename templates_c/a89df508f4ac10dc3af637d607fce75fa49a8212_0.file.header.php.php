@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.31, created on 2017-01-24 07:57:47
+/* Smarty version 3.1.31, created on 2017-01-24 09:17:17
   from "C:\phpStudy\WWW\rzpx\templates\header.php" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.31',
-  'unifunc' => 'content_588708fb9c4e61_83465661',
+  'unifunc' => 'content_58871b9d52d930_15945022',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'a89df508f4ac10dc3af637d607fce75fa49a8212' => 
     array (
       0 => 'C:\\phpStudy\\WWW\\rzpx\\templates\\header.php',
-      1 => 1485244233,
+      1 => 1485249425,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_588708fb9c4e61_83465661 (Smarty_Internal_Template $_smarty_tpl) {
+function content_58871b9d52d930_15945022 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -28,13 +28,13 @@ function content_588708fb9c4e61_83465661 (Smarty_Internal_Template $_smarty_tpl)
     <meta charset="UTF-8">
     <title><?php echo $_smarty_tpl->tpl_vars['title']->value;?>
 </title>
-    <!-- 新 Bootstrap 核心 CSS 文件 -->
-    <link rel="stylesheet" href="http://cdn.bootcss.com/bootstrap/3.3.0/css/bootstrap.min.css">
-    <!-- jQuery文件。务必在bootstrap.min.js 之前引入 -->
+    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <?php echo '<script'; ?>
- src="http://cdn.bootcss.com/jquery/1.11.1/jquery.min.js"><?php echo '</script'; ?>
+ src="https://cdn.bootcss.com/jquery/1.12.4/jquery.min.js"><?php echo '</script'; ?>
 >
-    <!-- 最新的 Bootstrap 核心 JavaScript 文件 -->
+    <?php echo '<script'; ?>
+ src="bootstrap/js/bootstrap.min.js"><?php echo '</script'; ?>
+>
     <style>
         body{font-family: "Microsoft YaHei"}
     </style>

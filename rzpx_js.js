@@ -16,7 +16,7 @@ function sendData(formId,url,controller,action,replaceId,method){
 
 }
 function add() {
-    document.getElementById('myModal').style.display='none';
+    // document.getElementById('myModal').style.display='none';
     var formId=document.getElementById('add_user');
     var url="index.php";
     var replaceId='user_list';

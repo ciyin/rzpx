@@ -5,13 +5,14 @@
  * Date: 2017/1/18
  * Time: 15:28
  */
+require_once 'configs/config.php';
 class Model{
     public $connect;
     public $rows;
 //    连接数据库
     public function __construct()
     {
-        $this->connect = mysqli_connect('localhost', 'root', 'root', 'rzpx');
+        $this->connect = mysqli_connect(DB_HOST,DB_USER,DB_PWD,DB);
         return $this->connect;
     }
 //    插入记录
@@ -38,14 +39,8 @@ class Model{
         $this->rows=mysqli_num_rows($res);
         return $result;
     }
-//    根据角色名称查找角色id：一维索引数组
-    public function select_roles_id($role){
-        $sql="select id from roles WHERE role='$role'";
-        $res=mysqli_query($this->connect,$sql);
-        $result=mysqli_fetch_row($res);
-        return $result;
-    }
-//    根据用户角色显示相应的培训内容：二维索引+关联数组。$roles_id的格式为（'1','2'）
+
+//    根据用户角色显示相应的培训内容：二维索引+关联数组。
     public function show_project($roles_id){
         $sql="select a.role,b.project from roles AS a JOIN projects AS b ON a.id=b.roles_id WHERE b.roles_id='$roles_id'";
         $res=mysqli_query($this->connect,$sql);

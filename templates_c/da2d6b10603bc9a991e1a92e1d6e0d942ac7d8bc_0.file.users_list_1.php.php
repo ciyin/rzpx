@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.31, created on 2017-01-24 04:03:56
+/* Smarty version 3.1.31, created on 2017-01-24 08:58:43
   from "C:\phpStudy\WWW\rzpx\templates\users_list_1.php" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.31',
-  'unifunc' => 'content_5886d22c1800c8_89848114',
+  'unifunc' => 'content_588717437be1f3_73775352',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'da2d6b10603bc9a991e1a92e1d6e0d942ac7d8bc' => 
     array (
       0 => 'C:\\phpStudy\\WWW\\rzpx\\templates\\users_list_1.php',
-      1 => 1485230620,
+      1 => 1485248275,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5886d22c1800c8_89848114 (Smarty_Internal_Template $_smarty_tpl) {
+function content_588717437be1f3_73775352 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <!--培训内容-->
 <div style="margin-top: 5px">
@@ -51,6 +51,7 @@ function content_5886d22c1800c8_89848114 (Smarty_Internal_Template $_smarty_tpl)
                 <td>创建日期</td>
             </tr>
             </thead>
+            <tbody id="user_list">
 
 
 
