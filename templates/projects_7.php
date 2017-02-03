@@ -15,17 +15,17 @@
                 </tr>
                 <tr style="height: 30px">
                     <td width="20%">2</td>
-                    <td width="60%"><a href="" onclick="save(this.innerText)">学员</a></td>
+                    <td width="60%"><a href="http://v.youku.com/v_show/id_XMjQ5NTA0Njc0OA==.html" onclick="save(this.innerText)">学员</a></td>
                     <td width="20%">14:21</td>
                 </tr>
                 <tr style="height: 30px">
                     <td width="20%">3</td>
-                    <td width="60%"><a href="" onclick="save(this.innerText)">合同</a></td>
+                    <td width="60%"><a href="http://v.youku.com/v_show/id_XMjQ5NTA0MjQxMg==.html" onclick="save(this.innerText)">合同</a></td>
                     <td width="20%">8:08</td>
                 </tr>
                 <tr style="height: 30px">
                     <td width="20%">4</td>
-                    <td width="60%"><a href="" onclick="save(this.innerText)">校区</a></td>
+                    <td width="60%"><a href="http://v.youku.com/v_show/id_XMjQ5NTA0MjcyNA==.html" onclick="save(this.innerText)">校区</a></td>
                     <td width="20%">6:31</td>
                 </tr>
                 <tr style="height: 30px">
@@ -50,7 +50,7 @@
                 </tr>
                 <tr style="height: 30px">
                     <td width="20%">9</td>
-                    <td width="60%"><a href="" onclick="save(this.innerText)">班级及考团</a></td>
+                    <td width="60%"><a href="http://v.youku.com/v_show/id_XMjQ5NDk3NTQwOA==.html" onclick="save(this.innerText)">班级及考团</a></td>
                     <td width="20%">11:39</td>
                 </tr>
             </table>
