@@ -15,12 +15,12 @@
                 </tr>
                 <tr style="height: 30px">
                     <td width="20%">2</td>
-                    <td width="60%"><a href="" onclick="save(this.innerText)">余额</a></td>
+                    <td width="60%"><a href="http://v.youku.com/v_show/id_XMjQ5NDk3NDgzNg==.html" onclick="save(this.innerText)">余额</a></td>
                     <td width="20%">7:13</td>
                 </tr>
                 <tr style="height: 30px">
                     <td width="20%">3</td>
-                    <td width="60%"><a href="" onclick="save(this.innerText)">合同</a></td>
+                    <td width="60%"><a href="http://v.youku.com/v_show/id_XMjQ5NDk3ODQ3Ng==.html" onclick="save(this.innerText)">合同</a></td>
                     <td width="20%">21:37</td>
                 </tr>
             </table>

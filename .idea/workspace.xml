@@ -2,33 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6793d9e-8a0d-48ac-be4f-108e0d702e04" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates_c/33f575b624178f30476b42161b66baf084558b70_0.file.users_list.php.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates_c/6bb2c56be24b4f3d2f5171d0a008126ec1d6ec67_0.file.users_list_2.php.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates_c/74f1159391bfed0c0c99250a28aaa757a5218cd1_0.file.training_log_2.php.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates_c/852a04617116a7f23d20e28c3a4499dbe9bbc8d2_0.file.training_log_3.php.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates_c/861b034f15638a92031191058cab635fdfe8a7f5_0.file.training_projects_2.php.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates_c/888d07675be3584fcbac441563be66ac6e9d2f37_0.file.projects_1.php.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates_c/899c6d47a3aea02051bb2fe9800aaaafd5c05f45_0.file.training_projects_1.php.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates_c/9902e9820ef102a24e851ab0351d15c2003b5749_0.file.projects_2.php.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates_c/997eec2f8cf632b980d4a5667a8545d84e33d8f5_0.file.users_list_3.php.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates_c/a5d3c31c1902bb9a4253097632a40c9abba6bbcd_0.file.footer.php.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates_c/a89df508f4ac10dc3af637d607fce75fa49a8212_0.file.header.php.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates_c/da2d6b10603bc9a991e1a92e1d6e0d942ac7d8bc_0.file.users_list_1.php.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates_c/db6362ae27af1d4afa65c00f2188dc56c010c8b0_0.file.training_projects_3.php.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates_c/ed35c1f81025d07a090f65e722770947738cd865_0.file.training_projects_4.php.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates_c/f29cdbcc89b330d4e3c84e710a29e1652c04b727_0.file.denglu.php.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates_c/facd2ba306a29979b0210253c7b743a1bff5837f_0.file.training_log_1.php.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/header.php" afterPath="$PROJECT_DIR$/templates/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/projects_1.php" afterPath="$PROJECT_DIR$/templates/projects_1.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/projects_2.php" afterPath="$PROJECT_DIR$/templates/projects_2.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/projects_3.php" afterPath="$PROJECT_DIR$/templates/projects_3.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/projects_4.php" afterPath="$PROJECT_DIR$/templates/projects_4.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/projects_5.php" afterPath="$PROJECT_DIR$/templates/projects_5.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/projects_6.php" afterPath="$PROJECT_DIR$/templates/projects_6.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/projects_7.php" afterPath="$PROJECT_DIR$/templates/projects_7.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/projects_8.php" afterPath="$PROJECT_DIR$/templates/projects_8.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/training_projects_1.php" afterPath="$PROJECT_DIR$/templates/training_projects_1.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -54,7 +29,58 @@
     <favorites_list name="rzpx" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="projects_3.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/projects_3.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="66" lean-forward="true" selection-start-line="17" selection-start-column="66" selection-end-line="17" selection-end-column="66" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="projects_4.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/projects_4.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="18" column="40" lean-forward="false" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="projects_5.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/projects_5.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="projects_6.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/projects_6.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="760">
+              <caret line="55" column="20" lean-forward="true" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="projects_2.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/projects_2.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="41" lean-forward="true" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -118,10 +144,10 @@
         <option value="$PROJECT_DIR$/templates/projects_3.php" />
         <option value="$PROJECT_DIR$/templates/projects_4.php" />
         <option value="$PROJECT_DIR$/templates/projects_8.php" />
-        <option value="$PROJECT_DIR$/templates/projects_5.php" />
-        <option value="$PROJECT_DIR$/templates/projects_6.php" />
         <option value="$PROJECT_DIR$/templates/projects_7.php" />
         <option value="$PROJECT_DIR$/templates/projects_2.php" />
+        <option value="$PROJECT_DIR$/templates/projects_6.php" />
+        <option value="$PROJECT_DIR$/templates/projects_5.php" />
       </list>
     </option>
   </component>
@@ -313,12 +339,12 @@
       <workItem from="1485152543507" duration="13564000" />
       <workItem from="1485222960340" duration="25392000" />
       <workItem from="1486092946179" duration="1408000" />
-      <workItem from="1486099672313" duration="5209000" />
+      <workItem from="1486099672313" duration="6770000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85383000" />
+    <option name="totallyTimeSpent" value="86944000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -331,9 +357,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17935579" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17935579" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32685512" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18814056" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -641,22 +667,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/projects_3.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="12" column="146" lean-forward="false" selection-start-line="12" selection-start-column="146" selection-end-line="12" selection-end-column="146" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/projects_2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="41" lean-forward="true" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/projects_1.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -681,18 +691,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/projects_6.php">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="42" column="68" lean-forward="true" selection-start-line="42" selection-start-column="68" selection-end-line="42" selection-end-column="68" />
-          <folding />
+        <state relative-caret-position="196">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <element signature="e#6#89#0#PHP" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/projects_5.php">
+    <entry file="file://$PROJECT_DIR$/templates/projects_2.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        <state relative-caret-position="285">
+          <caret line="15" column="41" lean-forward="true" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
           <folding />
         </state>
       </provider>
@@ -705,13 +717,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/templates/projects_5.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-          <folding>
-            <element signature="e#6#89#0#PHP" expanded="false" />
-          </folding>
+        <state relative-caret-position="475">
+          <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/projects_6.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="55" column="20" lean-forward="true" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/projects_3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="66" lean-forward="true" selection-start-line="17" selection-start-column="66" selection-end-line="17" selection-end-column="66" />
+          <folding />
         </state>
       </provider>
     </entry>

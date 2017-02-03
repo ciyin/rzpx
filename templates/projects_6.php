@@ -35,7 +35,7 @@
                 </tr>
                 <tr style="height: 30px">
                     <td width="20%">6</td>
-                    <td width="60%"><a href="" onclick="save(this.innerText)">课表课量</a></td>
+                    <td width="60%"><a href="http://v.youku.com/v_show/id_XMjQ5NDk3NTEyMA==.html" onclick="save(this.innerText)">课表课量</a></td>
                     <td width="20%">6:27</td>
                 </tr>
                 <tr style="height: 30px">
@@ -50,7 +50,7 @@
                 </tr>
                 <tr style="height: 30px">
                     <td width="20%">9</td>
-                    <td width="60%"><a href="" onclick="save(this.innerText)">班级及考团</a></td>
+                    <td width="60%"><a href="http://v.youku.com/v_show/id_XMjQ5NDk3NTQwOA==.html" onclick="save(this.innerText)">班级及考团</a></td>
                     <td width="20%">3:28</td>
                 </tr>
             </table>
