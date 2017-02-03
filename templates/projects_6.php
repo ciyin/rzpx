@@ -15,7 +15,7 @@
                 </tr>
                 <tr style="height: 30px">
                     <td width="20%">2</td>
-                    <td width="60%"><a href="" onclick="save(this.innerText)">线索</a></td>
+                    <td width="60%"><a href="http://v.youku.com/v_show/id_XMjQ5NTAxNTA3Ng==.html" onclick="save(this.innerText)">线索</a></td>
                     <td width="20%">8:40</td>
                 </tr>
                 <tr style="height: 30px">
@@ -45,7 +45,7 @@
                 </tr>
                 <tr style="height: 30px">
                     <td width="20%">8</td>
-                    <td width="60%"><a href="" onclick="save(this.innerText)">测评</a></td>
+                    <td width="60%"><a href="http://v.youku.com/v_show/id_XMjQ5NDk4MTgzNg==.html" onclick="save(this.innerText)">测评</a></td>
                     <td width="20%">35:20</td>
                 </tr>
                 <tr style="height: 30px">
