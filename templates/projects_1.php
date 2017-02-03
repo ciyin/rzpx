@@ -1,4 +1,5 @@
 <!--培训内容-->
+<!--督导-->
 <div style="margin-top: 10px">
     <!--留学酷-->
     <div class="panel panel-default">

@@ -1,4 +1,5 @@
 <!--培训内容-->
+<!--校长-->
 <div style="margin-top: 10px">
     <!--crm-->
     <div class="panel panel-default">
@@ -9,7 +10,7 @@
             <table style="margin-bottom: 0" width="100%">
                 <tr style="height: 30px">
                     <td width="20%">1</td>
-                    <td width="60%"><a href="" onclick="save(this.innerText)">CRM功能介绍</a></td>
+                    <td width="60%"><a href="http://v.youku.com/v_show/id_XMTc2NTM3OTUwNA==.html?spm=a2hzp.8244740.userfeed.5!9~5~5~5!3~5~A.UYfmbU" onclick="save(this.innerText)">CRM功能介绍</a></td>
                     <td width="20%">3:53</td>
                 </tr>
                 <tr style="height: 30px">

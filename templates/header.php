@@ -25,7 +25,7 @@
             </div>
             <div class="col-lg-2 col-md-2 col-md-2">
                 <div style="line-height: 40px">
-                    <span>用户名：</span>
+                    <span>用户名:</span>
                     <span><{$user}></span>
                     <span><a href="index.php?controller=login&action=logout">退出</a></span>
                 </div>
