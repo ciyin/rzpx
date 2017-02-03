@@ -20,7 +20,7 @@
                 </tr>
                 <tr style="height: 30px">
                     <td width="20%">3</td>
-                    <td width="60%"><a href="" onclick="save(this.innerText)">合同</a></td>
+                    <td width="60%"><a href="http://v.youku.com/v_show/id_XMjQ5NDk2MDk4OA==.html" onclick="save(this.innerText)">合同</a></td>
                     <td width="20%">17:28</td>
                 </tr>
                 <tr style="height: 30px">

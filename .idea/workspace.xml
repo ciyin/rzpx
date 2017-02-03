@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6793d9e-8a0d-48ac-be4f-108e0d702e04" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/projects_3.php" afterPath="$PROJECT_DIR$/templates/projects_3.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/projects_6.php" afterPath="$PROJECT_DIR$/templates/projects_6.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,7 +29,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="projects_4.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="projects_4.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/projects_4.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
@@ -50,7 +49,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="projects_6.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="projects_6.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/projects_6.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="456">
@@ -136,8 +135,8 @@
         <option value="$PROJECT_DIR$/templates/projects_7.php" />
         <option value="$PROJECT_DIR$/templates/projects_2.php" />
         <option value="$PROJECT_DIR$/templates/projects_5.php" />
-        <option value="$PROJECT_DIR$/templates/projects_6.php" />
         <option value="$PROJECT_DIR$/templates/projects_3.php" />
+        <option value="$PROJECT_DIR$/templates/projects_6.php" />
       </list>
     </option>
   </component>
@@ -329,12 +328,12 @@
       <workItem from="1485152543507" duration="13564000" />
       <workItem from="1485222960340" duration="25392000" />
       <workItem from="1486092946179" duration="1408000" />
-      <workItem from="1486099672313" duration="7853000" />
+      <workItem from="1486099672313" duration="8452000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88027000" />
+    <option name="totallyTimeSpent" value="88626000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -699,14 +698,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/projects_6.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/projects_5.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
@@ -727,6 +718,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="18" column="40" lean-forward="false" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/projects_6.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
           <folding />
         </state>
       </provider>
