@@ -1,3 +1,27 @@
+<?php
+/* Smarty version 3.1.31, created on 2017-02-04 10:18:49
+  from "C:\phpstudy\WWW\rzpx\templates\projects_3.php" */
+
+/* @var Smarty_Internal_Template $_smarty_tpl */
+if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
+  'version' => '3.1.31',
+  'unifunc' => 'content_5895aa89ee0f94_34083459',
+  'has_nocache_code' => false,
+  'file_dependency' => 
+  array (
+    'c603874a7d8b7ab064a47af61b53457526422432' => 
+    array (
+      0 => 'C:\\phpstudy\\WWW\\rzpx\\templates\\projects_3.php',
+      1 => 1486203524,
+      2 => 'file',
+    ),
+  ),
+  'includes' => 
+  array (
+  ),
+),false)) {
+function content_5895aa89ee0f94_34083459 (Smarty_Internal_Template $_smarty_tpl) {
+?>
 <!--培训内容-->
 <!--前台-->
 <div style="margin-top: 5px">
@@ -51,4 +75,5 @@
             </table>
         </div>
     </div>
-</div>
+</div><?php }
+}
