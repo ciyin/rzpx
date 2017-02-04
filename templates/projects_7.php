@@ -45,8 +45,8 @@
                 </tr>
                 <tr style="height: 30px">
                     <td width="20%">8</td>
-                    <td width="60%"><a href="" onclick="save(this.innerText)">教学事故</a></td>
-                    <td width="20%">11:39</td>
+                    <td width="60%"><a href="http://v.youku.com/v_show/id_XMjQ5NjM5OTAwOA==.html" onclick="save(this.innerText)">教学事故</a></td>
+                    <td width="20%">3:48</td>
                 </tr>
                 <tr style="height: 30px">
                     <td width="20%">9</td>
