@@ -71,7 +71,7 @@
                             <input type="radio" name="roles_id" value="7"> 副校长
                         </label>
                         <label class="radio-inline">
-                            <input type="radio" name="roles_id" value="8"> 校长
+                            <input type="radio" name="roles_id" value="8"> 兼职督导
                         </label>
                     </div>
                     <div style="height: 30px">

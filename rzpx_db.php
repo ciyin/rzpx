@@ -39,10 +39,10 @@ watching_time INT NOT NULL
 )ENGINE=InnoDB CHARSET=UTF8";
 mysqli_query($connect,$logs);
 
-$sql="insert into roles(id,role)VALUE ('1','督导'),('2','cr'),('3','前台'),('4','教务'),('5','财务'),('6','顾问'),('7','副校长'),('8','校长'),('9','管理员')";
+$sql="insert into roles(id,role)VALUE ('1','督导'),('2','cr'),('3','前台'),('4','教务'),('5','财务'),('6','顾问'),('7','副校长'),('8','兼职督导'),('9','管理员')";
 mysqli_query($connect,$sql);
 
-$sql_2="insert into projects(id,roles_id,project)VALUE ('1','1','留学酷/CRM/1course'),('2','2','留学酷/CRM/1course'),('3','3','CRM'),('4','4','CRM'),('5','5','CRM'),('6','6','留学酷/CRM/1course'),('7','7','留学酷/CRM/1course'),('8','8','留学酷/CRM/1course')";
+$sql_2="insert into projects(id,roles_id,project)VALUE ('1','1','留学酷/CRM/1course'),('2','2','留学酷/CRM/1course'),('3','3','CRM'),('4','4','CRM'),('5','5','CRM'),('6','6','留学酷/CRM/1course'),('7','7','留学酷/CRM/1course'),('8','8','留学酷')";
 mysqli_query($connect,$sql_2);
 
 $sql_3="insert into users(id,name,email,password,city,roles_id,created_at,created_by)VALUE ('1','刘丹霞','123@11.com','1234','上海','9','2014099033','1')";
